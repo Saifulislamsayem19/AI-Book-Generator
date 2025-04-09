@@ -82,10 +82,6 @@ python app.py
 ```
 AI-Book-Generator/
 ├── app.py                # Main Flask application
-├── static/               # Static assets
-│   ├── css/              # Stylesheets
-│   ├── js/               # JavaScript files
-│   └── images/           # Image assets
 ├── templates/            # HTML templates
 │   └── index.html        # Main application interface
 ├── requirements.txt      # Project dependencies
