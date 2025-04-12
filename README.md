@@ -3,7 +3,6 @@
 An interactive web application that generates complete, professional-quality stories and books using a multi-agent AI system.
 
 ![Screenshot_9-4-2025_1660_127 0 0 1](https://github.com/user-attachments/assets/1b743776-99fe-4600-8e42-24cd253123b5) 
-![Screenshot_9-4-2025_16644_127 0 0 1](https://github.com/user-attachments/assets/b60e020e-8c9f-45e3-871c-3314f88f7a7a)
 
 ## Overview
 
@@ -14,9 +13,6 @@ The AI Book Generator uses OpenAI's language models and a multi-agent architectu
 - Consistent character arcs
 - Professional formatting
 - Downloadable PDF and DOCX outputs
-
-![image](https://github.com/user-attachments/assets/1107e10e-5403-41e1-99f8-47e8f18bd14a)
-![image](https://github.com/user-attachments/assets/b721b8b0-9819-40ef-a250-63529f8e6865)
 
 The application leverages specialized "agent" roles, each responsible for different aspects of storytelling, to ensure cohesive and engaging narratives.
 
@@ -92,10 +88,14 @@ AI-Book-Generator/
 
 The AI Book Generator uses a multi-agent approach to storytelling:
 
-1. **Plot Architect**: Creates a comprehensive plot outline and narrative structure
-2. **Narrative Developer**: Generates chapter content with character development and plot progression
-3. **Dialogue Enhancer**: Improves character interactions and conversation realism
-4. **Continuity Expert**: Ensures consistent storytelling across chapters
+### Creates a comprehensive plot outline and narrative structure
+![Screenshot_9-4-2025_16644_127 0 0 1](https://github.com/user-attachments/assets/b60e020e-8c9f-45e3-871c-3314f88f7a7a)
+
+### Generates chapter content with character development and plot progression
+![image](https://github.com/user-attachments/assets/1107e10e-5403-41e1-99f8-47e8f18bd14a)
+
+### Downloadable in PDF and DOCX format
+![image](https://github.com/user-attachments/assets/b721b8b0-9819-40ef-a250-63529f8e6865)
 
 Each chapter is generated with awareness of previous content, maintaining narrative coherence throughout the entire story.
 
