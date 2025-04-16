@@ -1,8 +1,7 @@
 # AI Book Generator
 
 An interactive web application that generates complete, professional-quality stories and books using a multi-agent AI system.
-
-![Screenshot_9-4-2025_1660_127 0 0 1](https://github.com/user-attachments/assets/1b743776-99fe-4600-8e42-24cd253123b5) 
+![image](https://github.com/user-attachments/assets/8626ab51-f7e0-44e3-90fb-cd25f1d9b1ce) 
 
 ## Overview
 
@@ -87,6 +86,20 @@ AI-Book-Generator/
 ## How It Works
 
 The AI Book Generator uses a multi-agent approach to storytelling:
+
+1. **Input Parameters**: The user provides a title, description, and the number of chapters for the story.
+2. **Story Generation**: The backend uses OpenAI's GPT-3.5-turbo to generate the plot outline, character arcs, and chapter details.
+3. **Download Options**: Once the story is generated, the user can download it in PDF or DOCX format.
+4. **PDF/Docx Styling**: The generated document includes:
+    - Cover page
+    - Table of contents
+    - Chapter headings
+    - Professional formatting for a polished look
+
+## Screenshots
+
+### Take title, description, and the number of chapters for the story
+![Screenshot_9-4-2025_1660_127 0 0 1](https://github.com/user-attachments/assets/1b743776-99fe-4600-8e42-24cd253123b5)
 
 ### Creates a comprehensive plot outline and narrative structure
 ![Screenshot_9-4-2025_16644_127 0 0 1](https://github.com/user-attachments/assets/b60e020e-8c9f-45e3-871c-3314f88f7a7a)
