@@ -1,6 +1,7 @@
 # AI Book Generator
 
 An interactive web application that generates complete, professional-quality stories and books using a multi-agent AI system.
+
 ![image](https://github.com/user-attachments/assets/8626ab51-f7e0-44e3-90fb-cd25f1d9b1ce) 
 
 ## Overview
